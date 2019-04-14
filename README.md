@@ -2,7 +2,7 @@
 
 # Hbook笔记
 
-[![Hbook笔记](https://hwgq2005.github.io/note/images/example.jpg)]
+![Hbook笔记](https://hwgq2005.github.io/note/images/example.jpg)
 
 ### 愿景
 
