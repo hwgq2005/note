@@ -2,6 +2,8 @@
 
 # Hbook笔记
 
+[![Hbook笔记](https://hwgq2005.github.io/note/images/example.jpg)]
+
 ### 愿景
 
 免费、 简约、大方的Markdown笔记
