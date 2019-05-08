@@ -2,15 +2,10 @@
 
 # Hbook笔记
 
-![Hbook笔记](https://hwgq2005.github.io/note/images/example.png)
+> Hbook笔记是一款免费、 简约、大方的Markdown笔记。坚持分享、开放的互联网精神，如果你和我有相同的目标，我乐意一起携手前行。
 
-### 愿景
-
-免费、 简约、大方的Markdown笔记
-
-### 使命
-
-Hbook笔记是一款专注于开发人员的Markdown笔记，坚持分享、开放的互联网精神；如果你和我有相同的目标，我乐意一起携手前行。
+### 官网
+[www.bookcss.com](http://www.bookcss.com "Hbook笔记")
 
 ### 特性
 
@@ -26,4 +21,3 @@ Hbook笔记是一款专注于开发人员的Markdown笔记，坚持分享、开�
 
 如果你有好的建议或疑问的话，可通过issus留言给我。
 Email：hbook@bookcss.com
-
